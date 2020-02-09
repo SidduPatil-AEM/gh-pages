@@ -18,4 +18,12 @@ URL Link    -   https://crazyaemdeveloper.github.io/gh-pages/
 <div>git remote add origin https://github.com/crazyaemdeveloper/gh-pages-test.git</div>
 <div>git push -u origin master</div>
 
+<h3>Website to read the Front End</h3>
+
+<p>https://www.freecodecamp.org/</p>
+
+<p>https://scrimba.com/</p>
+
+
+
 
